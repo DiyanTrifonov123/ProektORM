@@ -1,0 +1,16 @@
+C:\Diyan 11d\ProektORM\Zavedenie\bin\Debug\Zavedenie.exe.config
+C:\Diyan 11d\ProektORM\Zavedenie\bin\Debug\Zavedenie.exe
+C:\Diyan 11d\ProektORM\Zavedenie\bin\Debug\Zavedenie.pdb
+C:\Diyan 11d\ProektORM\Zavedenie\bin\Debug\EntityFramework.dll
+C:\Diyan 11d\ProektORM\Zavedenie\bin\Debug\EntityFramework.SqlServer.dll
+C:\Diyan 11d\ProektORM\Zavedenie\bin\Debug\EntityFramework.xml
+C:\Diyan 11d\ProektORM\Zavedenie\bin\Debug\EntityFramework.SqlServer.xml
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.csproj.AssemblyReference.cache
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.Properties.Resources.resources
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.csproj.GenerateResource.cache
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.csproj.CoreCompileInputs.cache
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.csproj.Up2Date
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.exe
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.pdb
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.exe.config
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.Migrations.Delivery.resources
