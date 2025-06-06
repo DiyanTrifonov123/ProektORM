@@ -14,3 +14,4 @@ C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.exe
 C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.pdb
 C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.exe.config
 C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.Migrations.Delivery.resources
+C:\Diyan 11d\ProektORM\Zavedenie\obj\Debug\Zavedenie.Form1.resources
